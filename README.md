@@ -1,5 +1,5 @@
 # 🚀Woowacourse_BE
-우아한테크코스 BE 5기 크루 도기의 우아한 여정
+우아한테크코스 BE 5기, 도기의 우아한 여정
 
 # 프리코스
 | Mission |                Repository                 |
@@ -10,12 +10,12 @@
 |  메뉴 추천  |   https://github.com/kdkdhoho/java-menu   |
 
 # 레벨1 - 단위 테스트, TDD, Clean Code, OOP, DB
-| Mission |                Repository                 | 회고록 |
-|:-------:|:-----------------------------------------:|:---:|
+| Mission |                 Repository                 | 회고록 |
+|:-------:|:------------------------------------------:|:---:|
 | 자동차 경주  | https://github.com/kdkdhoho/java-racingcar |  https://velog.io/@donghokim1998/레벨-1-1주차-회고록   |
-|   사다리   |     |
-|   블랙잭   |    |
-|   체스    |      |
+|   사다리   |  https://github.com/kdkdhoho/java-ladder   |  |
+|   블랙잭   |                                            |
+|   체스    |                                            |
 
 ### 관련 포스팅
 - [클래스 끝에 개행을 추가해야하는 이유1](https://velog.io/@doondoony/posix-eol)
