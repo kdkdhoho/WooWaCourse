@@ -10,10 +10,10 @@
 |  메뉴 추천  |   https://github.com/kdkdhoho/java-menu   |
 
 # 레벨1 - 단위 테스트, TDD, Clean Code, OOP, DB
-| Mission |                 Repository                 | 회고록 |
-|:-------:|:------------------------------------------:|:---:|
-| 자동차 경주  | https://github.com/kdkdhoho/java-racingcar |  https://velog.io/@donghokim1998/레벨-1-1주차-회고록   |
-|   사다리   |  https://github.com/kdkdhoho/java-ladder   |  |
+| Mission |                 Repository                 |                     회고록                      | Pull Request                                                                                                                 |
+|:-------:|:------------------------------------------:|:--------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------|
+| 자동차 경주  | https://github.com/kdkdhoho/java-racingcar | https://velog.io/@donghokim1998/레벨-1-1주차-회고록 | [1단계](https://github.com/woowacourse/java-racingcar/pull/506), [2단계](https://github.com/woowacourse/java-racingcar/pull/577) |
+|   사다리   |  https://github.com/kdkdhoho/java-ladder   |                                              | [1단계](https://github.com/woowacourse/java-ladder/pull/57) |
 |   블랙잭   |                                            |
 |   체스    |                                            |
 
