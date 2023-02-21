@@ -21,3 +21,4 @@
 - [클래스 끝에 개행을 추가해야하는 이유1](https://velog.io/@doondoony/posix-eol)
 - [클래스 끝에 개행을 추가해야하는 이유2](https://seongwon.dev/Git/20220303-%ED%8C%8C%EC%9D%BC%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EA%B0%9C%ED%96%89/)
 - [원시값 포장 하는 이유](https://tecoble.techcourse.co.kr/post/2020-05-29-wrap-primitive-type/)
+- [이펙티브 자바: 아이템1. 생성자 대신 정적 팩토리 메서드를 고려하라](https://sun-22.tistory.com/84)
