@@ -23,3 +23,4 @@
 - [원시값 포장 하는 이유](https://tecoble.techcourse.co.kr/post/2020-05-29-wrap-primitive-type/)
 - [이펙티브 자바: 아이템1. 생성자 대신 정적 팩토리 메서드를 고려하라](https://sun-22.tistory.com/84)
 - [이펙티브 자바: 아이템11. equals를 재정의하려거든 hashCode도 재정의해라](https://github.com/woowacourse-study/2022-effective-java/blob/main/03%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C_11/equals%EB%A5%BC_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0_hashCode%EB%8F%84_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
+- [final의 장단점](https://velog.io/@donghokim1998/final-키워드의-장단점)
