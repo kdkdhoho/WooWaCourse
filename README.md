@@ -17,7 +17,7 @@
 |:-------:|:------------------------------------------------:|:----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------|
 | 자동차 경주  |    https://github.com/kdkdhoho/java-racingcar    |  https://velog.io/@donghokim1998/레벨-1-1주차-회고록  | [1단계](https://github.com/woowacourse/java-racingcar/pull/506), [2단계](https://github.com/woowacourse/java-racingcar/pull/577) |
 |   사다리   |     https://github.com/kdkdhoho/java-ladder      | https://velog.io/@donghokim1998/레벨-1-2-3주차-회고록 | [1단계](https://github.com/woowacourse/java-ladder/pull/57), [2단계](https://github.com/woowacourse/java-ladder/pull/179)        |
-|   블랙잭   |    https://github.com/kdkdhoho/java-blackjack    |                                                | [1단계](https://github.com/woowacourse/java-blackjack/pull/475), [2단계](https://github.com/woowacourse/java-blackjack/pull/523) |
+|   블랙잭   |    https://github.com/kdkdhoho/java-blackjack    |   https://velog.io/@donghokim1998/블랙잭-미션-회고록   | [1단계](https://github.com/woowacourse/java-blackjack/pull/475), [2단계](https://github.com/woowacourse/java-blackjack/pull/523) |
 |   체스    | https://github.com/kdkdhoho/java-chess/tree/main |                                                | [1, 2단계](https://github.com/woowacourse/java-chess/pull/512), [3, 4단계](https://github.com/woowacourse/java-chess/pull/551)   | 
 
 ### 관련 포스팅
