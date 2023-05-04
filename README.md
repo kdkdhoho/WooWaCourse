@@ -22,11 +22,11 @@
 
 # 레벨2 - Spring Framework
 
-| Mission  |                  Repository                   | 회고록 | Pull Request                                                                                                              |
-|:--------:|:---------------------------------------------:|:---:|:--------------------------------------------------------------------------------------------------------------------------|
-| 웹 자동차 경주 | https://github.com/kdkdhoho/jwp-racingcar.git |     | [1단계](https://github.com/woowacourse/jwp-racingcar/pull/27), [2단계](https://github.com/woowacourse/jwp-racingcar/pull/104) |
-|   장바구니   | https://github.com/kdkdhoho/jwp-shopping-cart |     | [1단계](https://github.com/woowacourse/jwp-shopping-cart/pull/197)                                                          |
-|   지하철    |                                               |     |                                                                                                                           |
+| Mission  |                  Repository                   | 회고록 | Pull Request                                                                                                                        |
+|:--------:|:---------------------------------------------:|:---:|:------------------------------------------------------------------------------------------------------------------------------------|
+| 웹 자동차 경주 |   https://github.com/kdkdhoho/jwp-racingcar   |     | [1단계](https://github.com/woowacourse/jwp-racingcar/pull/27), [2단계](https://github.com/woowacourse/jwp-racingcar/pull/104)           |
+|   장바구니   | https://github.com/kdkdhoho/jwp-shopping-cart |     | [1단계](https://github.com/woowacourse/jwp-shopping-cart/pull/197), [2단계] (https://github.com/woowacourse/jwp-shopping-cart/pull/288) |
+|   지하철    |                                               |     |                                                                                                                                     |
 | 장바구니(협업) |                                               ||     |
 
 ### 관련 포스팅
