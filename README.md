@@ -13,21 +13,22 @@
 
 # 레벨1 - 단위 테스트, TDD, Clean Code, OOP, DB
 
-| Mission |                    Repository                    |                      회고록                       | Pull Request                                                                                                                 |
-|:-------:|:------------------------------------------------:|:----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------|
-| 자동차 경주  |    https://github.com/kdkdhoho/java-racingcar    |  https://velog.io/@donghokim1998/레벨-1-1주차-회고록  | [1단계](https://github.com/woowacourse/java-racingcar/pull/506), [2단계](https://github.com/woowacourse/java-racingcar/pull/577) |
-|   사다리   |     https://github.com/kdkdhoho/java-ladder      | https://velog.io/@donghokim1998/레벨-1-2-3주차-회고록 | [1단계](https://github.com/woowacourse/java-ladder/pull/57), [2단계](https://github.com/woowacourse/java-ladder/pull/179)        |
-|   블랙잭   |    https://github.com/kdkdhoho/java-blackjack    |   https://velog.io/@donghokim1998/블랙잭-미션-회고록   | [1단계](https://github.com/woowacourse/java-blackjack/pull/475), [2단계](https://github.com/woowacourse/java-blackjack/pull/523) |
-|   체스    | https://github.com/kdkdhoho/java-chess/tree/main |   https://velog.io/@donghokim1998/체스-미션-회고록    | [1, 2단계](https://github.com/woowacourse/java-chess/pull/512), [3, 4단계](https://github.com/woowacourse/java-chess/pull/551)   |
+| Mission |                             Repository                              |                      회고록                       | Pull Request                                                                                                                 |
+|:-------:|:-------------------------------------------------------------------:|:----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------|
+| 자동차 경주  |             https://github.com/kdkdhoho/java-racingcar              |  https://velog.io/@donghokim1998/레벨-1-1주차-회고록  | [1단계](https://github.com/woowacourse/java-racingcar/pull/506), [2단계](https://github.com/woowacourse/java-racingcar/pull/577) |
+|   사다리   |               https://github.com/kdkdhoho/java-ladder               | https://velog.io/@donghokim1998/레벨-1-2-3주차-회고록 | [1단계](https://github.com/woowacourse/java-ladder/pull/57), [2단계](https://github.com/woowacourse/java-ladder/pull/179)        |
+|   블랙잭   |             https://github.com/kdkdhoho/java-blackjack              |   https://velog.io/@donghokim1998/블랙잭-미션-회고록   | [1단계](https://github.com/woowacourse/java-blackjack/pull/475), [2단계](https://github.com/woowacourse/java-blackjack/pull/523) |
+|   체스    |          https://github.com/kdkdhoho/java-chess/tree/main           |   https://velog.io/@donghokim1998/체스-미션-회고록    | [1, 2단계](https://github.com/woowacourse/java-chess/pull/512), [3, 4단계](https://github.com/woowacourse/java-chess/pull/551)   |
+|   글쓰기   | https://github.com/kdkdhoho/woowa-writing-5/blob/kdkdhoho/Level1.md |                                                ||
 
 # 레벨2 - Spring Framework
 
-| Mission  |                  Repository                   | 회고록 | Pull Request                                                                                                                        |
-|:--------:|:---------------------------------------------:|:---:|:------------------------------------------------------------------------------------------------------------------------------------|
-| 웹 자동차 경주 |   https://github.com/kdkdhoho/jwp-racingcar   |     | [1단계](https://github.com/woowacourse/jwp-racingcar/pull/27), [2단계](https://github.com/woowacourse/jwp-racingcar/pull/104)           |
-|   장바구니   | https://github.com/kdkdhoho/jwp-shopping-cart |     | [1단계](https://github.com/woowacourse/jwp-shopping-cart/pull/197), [2단계](https://github.com/woowacourse/jwp-shopping-cart/pull/288) |
-|   지하철    |                                               |     |                                                                                                                                     |
-| 장바구니(협업) |                                               ||     |
+| Mission  |                   Repository                   | Pull Request                                                                                                                       |
+|:--------:|:----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------|
+| 웹 자동차 경주 |   https://github.com/kdkdhoho/jwp-racingcar    | [1단계](https://github.com/woowacourse/jwp-racingcar/pull/27), [2단계](https://github.com/woowacourse/jwp-racingcar/pull/104)          |
+|   장바구니   | https://github.com/kdkdhoho/jwp-shopping-cart  | [1단계](https://github.com/woowacourse/jwp-shopping-cart/pull/197), [2단계](https://github.com/woowacourse/jwp-shopping-cart/pull/288) |
+|   지하철    |  https://github.com/kdkdhoho/jwp-subway-path   | [1단계](https://github.com/woowacourse/jwp-subway-path/pull/84), [2, 3단계](https://github.com/woowacourse/jwp-subway-path/pull/175)   |
+| 장바구니(협업) | https://github.com/kdkdhoho/jwp-shopping-order |                                                                                                                                    |
 
 ### 관련 포스팅
 
@@ -38,3 +39,7 @@
 - [이펙티브 자바: 아이템11. equals를 재정의하려거든 hashCode도 재정의해라](https://github.com/woowacourse-study/2022-effective-java/blob/main/03%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C_11/equals%EB%A5%BC_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0_hashCode%EB%8F%84_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 - [final의 장단점](https://velog.io/@donghokim1998/final-키워드의-장단점)
 - [일급컬렉션은 무엇이고 왜 사용하는가?](https://prolog.techcourse.co.kr/studylogs/3150)
+- [DAO 테스트 트러블 슈팅](https://prolog.techcourse.co.kr/studylogs/3198)
+- [Controller의 Request 객체를 Service에게 넘기는 게 좋을까?](https://prolog.techcourse.co.kr/studylogs/3206)
+- [DTO가 Entity나 Domain을 알아도 괜찮을까?](https://prolog.techcourse.co.kr/studylogs/3422)
+- [테스트의 우선순위 설정](https://prolog.techcourse.co.kr/studylogs/3514)
