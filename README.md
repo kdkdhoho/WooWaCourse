@@ -31,6 +31,10 @@
 | 장바구니(협업) |           https://github.com/kdkdhoho/jwp-shopping-order            | [1단계](https://github.com/woowacourse/jwp-shopping-order/pull/82)                                                                   |
 |   글쓰기    | https://github.com/kdkdhoho/woowa-writing-5/blob/kdkdhoho/Level2.md |                                                                                                                                    |
 
+# 레벨3 - 프로젝트
+
+[셀럽 기반 맛집 탐색 서비스 - 셀럽잇](https://github.com/woowacourse-teams/2023-celuveat.git)
+
 ### 관련 포스팅
 
 - [클래스 끝에 개행을 추가해야하는 이유1](https://velog.io/@doondoony/posix-eol)
