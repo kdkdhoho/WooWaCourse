@@ -28,12 +28,13 @@
 | 웹 자동차 경주 |              https://github.com/kdkdhoho/jwp-racingcar              | [1단계](https://github.com/woowacourse/jwp-racingcar/pull/27), [2단계](https://github.com/woowacourse/jwp-racingcar/pull/104)          |
 |   장바구니   |            https://github.com/kdkdhoho/jwp-shopping-cart            | [1단계](https://github.com/woowacourse/jwp-shopping-cart/pull/197), [2단계](https://github.com/woowacourse/jwp-shopping-cart/pull/288) |
 |   지하철    |             https://github.com/kdkdhoho/jwp-subway-path             | [1단계](https://github.com/woowacourse/jwp-subway-path/pull/84), [2, 3단계](https://github.com/woowacourse/jwp-subway-path/pull/175)   |
-| 장바구니(협업) |           https://github.com/kdkdhoho/jwp-shopping-order            | [1단계](https://github.com/woowacourse/jwp-shopping-order/pull/82)                                                                   |
+| 장바구니(협업) |           https://github.com/kdkdhoho/jwp-shopping-order            | [1단계](https://github.com/woowacourse/jwp-shopping-order/pull/82), [2단계](https://github.com/woowacourse/jwp-shopping-order/pull/82) |
 |   글쓰기    | https://github.com/kdkdhoho/woowa-writing-5/blob/kdkdhoho/Level2.md |                                                                                                                                    |
 
 # 레벨3 - 프로젝트
 
 [셀럽 기반 맛집 탐색 서비스 - 셀럽잇](https://github.com/woowacourse-teams/2023-celuveat.git)
+[셀럽잇 바로가기](https://www.celuveat.com)
 
 ### 관련 포스팅
 
@@ -48,3 +49,11 @@
 - [Controller의 Request 객체를 Service에게 넘기는 게 좋을까?](https://prolog.techcourse.co.kr/studylogs/3206)
 - [DTO가 Entity나 Domain을 알아도 괜찮을까?](https://prolog.techcourse.co.kr/studylogs/3422)
 - [테스트의 우선순위 설정](https://prolog.techcourse.co.kr/studylogs/3514)
+- [어? 왜 안되지? - JOIN 쿼리편](https://velog.io/@donghokim1998/어-왜-안되지-JOIN-쿼리편)
+- [Oauth 로그아웃 - 카카오](https://velog.io/@donghokim1998/Oauth-로그아웃-카카오)
+- [\[우테코\] 레벨3 전체 회고](https://velog.io/@donghokim1998/우테코-레벨3-전체-회고)
+- [셀럽잇 Tomcat 서버 튜닝기 - 1](https://velog.io/@donghokim1998/셀럽잇-Tomcat-서버-튜닝기-1)
+- [Java Reflection](https://velog.io/@donghokim1998/Java-Reflection)
+- [DH GCT 후기](https://velog.io/@donghokim1998/DH-GCT-후기)
+- [셀럽잇 데이터 저장 API 개선기](https://velog.io/@donghokim1998/셀럽잇-데이터-저장-API-개선기)
+- [객체 생성.. 어디서 할까?](https://velog.io/@donghokim1998/객체-생성..-어디서-할까)
