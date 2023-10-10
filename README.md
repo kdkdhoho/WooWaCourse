@@ -33,8 +33,7 @@
 
 # 레벨3 - 프로젝트
 
-[셀럽 기반 맛집 탐색 서비스 - 셀럽잇](https://github.com/woowacourse-teams/2023-celuveat.git)
-[셀럽잇 바로가기](https://www.celuveat.com)
+[셀럽 기반 맛집 탐색 서비스 - 셀럽잇](https://github.com/woowacourse-teams/2023-celuveat.git) ([바로가기](https://www.celuveat.com))
 
 ### 관련 포스팅
 
