@@ -33,8 +33,19 @@
 
 # 레벨3 - 프로젝트
 
-[셀럽 기반 맛집 탐색 서비스 - 셀럽잇](https://github.com/woowacourse-teams/2023-celuveat.git)
-[셀럽잇 바로가기](https://www.celuveat.com)
+[셀럽 기반 맛집 탐색 서비스 - 셀럽잇](https://www.celuveat.com)
+
+[Team Repository](https://github.com/woowacourse-teams/2023-celuveat.git)
+
+# 레벨4 - 바퀴의 재발명
+
+|     Mission     |                             Repository                              | Pull Request                                                                                                                                                                                                                                                               |
+|:---------------:|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Tomcat 구현하기   |           https://github.com/kdkdhoho/jwp-dashboard-http            | [1, 2단계](https://github.com/woowacourse/jwp-dashboard-http/pull/392), [3, 4단계](https://github.com/woowacourse/jwp-dashboard-http/pull/449)                                                                                                                                 |
+|    @MVC 구현하기    |            https://github.com/kdkdhoho/jwp-dashboard-mvc            | [1단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/428), [2단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/487), [3단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/603)                                                                       |
+| JDBC 라이브러리 구현하기 |           https://github.com/kdkdhoho/jwp-dashboard-jdbc            | [1단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/337), [2단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/412), [3단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/512), [4단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/598) |
+|   레거시 코드 리팩터링   |             https://github.com/kdkdhoho/jwp-refactoring             | [1단계](https://github.com/woowacourse/jwp-refactoring/pull/519), [2단계](https://github.com/woowacourse/jwp-refactoring/pull/561), [3단계](https://github.com/woowacourse/jwp-refactoring/pull/683), [4단계](https://github.com/woowacourse/jwp-refactoring/pull/743)             |
+|       글쓰기       | https://github.com/kdkdhoho/woowa-writing-5/blob/kdkdhoho/Level4.md |                                                                                                                                                                                                                                                                            |
 
 ### 관련 포스팅
 
